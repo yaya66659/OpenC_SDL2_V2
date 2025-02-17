@@ -65,7 +65,7 @@ make all
 Cela compilera le projet et créera un exécutable dans le dossier bin/.
 
 ## 📩 Contact
-Si vous avez des suggestions ou des retours, contactez-moi sur **[GitHub Issues](https://github.com/yaya66659/BlocKeyboard/issues)** ou par mail : **yann66659@gmail.com**.  
+Si vous avez des suggestions ou des retours, contactez-moi sur **[GitHub Issues](https://github.com/yaya66659/BlocKeyboard/issues)** ou par mail : **yann55446@gmail.com**.  
 
 
 ## 📜 Licence
