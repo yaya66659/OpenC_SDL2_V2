@@ -13,25 +13,25 @@ en incluant un Makefile et un code de base minimal permettant d’ouvrir une fen
 ✔ Interface graphique pour entrer le nom du projet.
 ✔ Création automatique d’une arborescence optimisée :
 
-OpenSDL2/
-├── projets/
-│   ├── [nom_du_projet]/
-│       ├── bin/       # Contient l'exécutable et les DLL SDL2
-│       ├── images/    # Contient 4 images par défaut
-│       ├── include/   # Contient les headers SDL2, SDL2_TTF et SDL2_image
-│       ├── lib/       # Contient les fichiers .a nécessaires pour la compilation
-│       ├── police/    # Contient 2 polices de caractères par défaut
-│       ├── src/       # Contient les fichiers main.c et fct.c
-│       ├── headers/   # Contient fct.h
-│       ├── Makefile   # Généré automatiquement pour faciliter la compilation
+    OpenSDL2/
+    ├── projets/
+    │   ├── [nom_du_projet]/
+    │       ├── bin/       # Contient l'exécutable et les DLL SDL2
+    │       ├── images/    # Contient 4 images par défaut
+    │       ├── include/   # Contient les headers SDL2, SDL2_TTF et SDL2_image
+    │       ├── lib/       # Contient les fichiers .a nécessaires pour la compilation
+    │       ├── police/    # Contient 2 polices de caractères par défaut
+    │       ├── src/       # Contient les fichiers main.c et fct.c
+    │       ├── headers/   # Contient fct.h
+    │       ├── Makefile   # Généré automatiquement pour faciliter la compilation
 
 ✔ Code prérempli avec les fonctions essentielles :
 
-  -Initialisation de SDL2 avec création de fenêtre et rendu.
-    
-  -Gestion des erreurs SDL2 (quitWithError()).
-    
-  -Libération propre des ressources SDL2 (destroyResources()).
+    -Initialisation de SDL2 avec création de fenêtre et rendu.
+      
+    -Gestion des erreurs SDL2 (quitWithError()).
+      
+    -Libération propre des ressources SDL2 (destroyResources()).
 ✔ Makefile intégré pour compiler facilement le projet.
 ✔ Ouverture automatique du projet dans VSCode après sa création.
 
@@ -44,15 +44,15 @@ Télécharge la dernière version de OpenC_SDL2_V2 ici :🔗 [Lien Google Drive]
 
 1️⃣ Installation
 
-Aucune installation requise ! Il suffit de décompresser l’archive et de lancer launcher.bat
+    Aucune installation requise ! Il suffit de décompresser l’archive et de lancer launcher.bat
 
 2️⃣ Utilisation
 
-Lance launcher.bat.
-
-Entre le nom du projet.
-
-Double Clique sur le bouton "Entrer".
+    Lance launcher.bat.
+    
+    Entre le nom du projet.
+    
+    Double Clique sur le bouton "Entrer".
 
 Le projet est généré dans le dossier projets et s’ouvre automatiquement dans VSCode !
 
