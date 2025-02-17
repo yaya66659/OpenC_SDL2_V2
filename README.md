@@ -64,6 +64,13 @@ make all
 ```
 Cela compilera le projet et créera un exécutable dans le dossier bin/.
 
+## 📸 Aperçu
+
+Voici à quoi ressemble **OpenC_SDL2_V2** en action :
+
+### Interface principale
+![Interface principale](screenshots/ScreenOpenSDL_V2.png)
+
 ## 📩 Contact
 Si vous avez des suggestions ou des retours, contactez-moi sur **[GitHub Issues](https://github.com/yaya66659/BlocKeyboard/issues)** ou par mail : **yann55446@gmail.com**.  
 
