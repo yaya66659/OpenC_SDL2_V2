@@ -1,4 +1,7 @@
-OpenC_SDL2_V2
+ **OpenC_SDL2_V2**   
+ 
+ ![Status](https://img.shields.io/badge/Status-Beta-yellow?style=for-the-badge)
+
 
 🎮 Description
 
